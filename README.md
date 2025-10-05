@@ -2,12 +2,6 @@
 
 Um aplicativo mobile para ajudar usuários a economizar tempo, verificando o status de lotação de estabelecimentos como restaurantes, padarias e cafés em tempo real. Este projeto está sendo desenvolvido como uma ferramenta de aprendizado prático em React Native.
 
-## 📱 Tela Atual
-
-![Tela do App SaveYourTime](./image_f6562d.png)
-
-*(Dica: A imagem acima é a última que você me enviou. Você pode tirar uma foto mais recente da tela do seu app funcionando, salvá-la na pasta raiz do projeto com o nome `screenshot.png` e mudar a linha acima para `![Tela do App SaveYourTime](./screenshot.png)`)*
-
 ## ✨ Funcionalidades Atuais
 
 - Visualização de uma lista de estabelecimentos.
